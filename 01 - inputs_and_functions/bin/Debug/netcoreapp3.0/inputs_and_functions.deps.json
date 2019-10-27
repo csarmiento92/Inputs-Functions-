@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "inputs_and_functions/1.0.0": {
+        "runtime": {
+          "inputs_and_functions.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "inputs_and_functions/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

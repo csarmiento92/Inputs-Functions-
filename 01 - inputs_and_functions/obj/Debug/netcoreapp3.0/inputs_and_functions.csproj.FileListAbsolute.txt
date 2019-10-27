@@ -1,0 +1,22 @@
+C:/Users/redwood-presenter/Desktop/curriculum_master/08 - csharp/07 - labs/01 - inputs_and_functions/bin/Debug/netcoreapp3.0/inputs_and_functions.exe
+C:/Users/redwood-presenter/Desktop/curriculum_master/08 - csharp/07 - labs/01 - inputs_and_functions/bin/Debug/netcoreapp3.0/inputs_and_functions.deps.json
+C:/Users/redwood-presenter/Desktop/curriculum_master/08 - csharp/07 - labs/01 - inputs_and_functions/bin/Debug/netcoreapp3.0/inputs_and_functions.runtimeconfig.json
+C:/Users/redwood-presenter/Desktop/curriculum_master/08 - csharp/07 - labs/01 - inputs_and_functions/bin/Debug/netcoreapp3.0/inputs_and_functions.runtimeconfig.dev.json
+C:/Users/redwood-presenter/Desktop/curriculum_master/08 - csharp/07 - labs/01 - inputs_and_functions/bin/Debug/netcoreapp3.0/inputs_and_functions.dll
+C:/Users/redwood-presenter/Desktop/curriculum_master/08 - csharp/07 - labs/01 - inputs_and_functions/bin/Debug/netcoreapp3.0/inputs_and_functions.pdb
+C:/Users/redwood-presenter/Desktop/curriculum_master/08 - csharp/07 - labs/01 - inputs_and_functions/obj/Debug/netcoreapp3.0/inputs_and_functions.csprojAssemblyReference.cache
+C:/Users/redwood-presenter/Desktop/curriculum_master/08 - csharp/07 - labs/01 - inputs_and_functions/obj/Debug/netcoreapp3.0/inputs_and_functions.AssemblyInfoInputs.cache
+C:/Users/redwood-presenter/Desktop/curriculum_master/08 - csharp/07 - labs/01 - inputs_and_functions/obj/Debug/netcoreapp3.0/inputs_and_functions.AssemblyInfo.cs
+C:/Users/redwood-presenter/Desktop/curriculum_master/08 - csharp/07 - labs/01 - inputs_and_functions/obj/Debug/netcoreapp3.0/inputs_and_functions.dll
+C:/Users/redwood-presenter/Desktop/curriculum_master/08 - csharp/07 - labs/01 - inputs_and_functions/obj/Debug/netcoreapp3.0/inputs_and_functions.pdb
+/Users/christinasarmiento/Downloads/01 - inputs_and_functions/bin/Debug/netcoreapp3.0/inputs_and_functions
+/Users/christinasarmiento/Downloads/01 - inputs_and_functions/bin/Debug/netcoreapp3.0/inputs_and_functions.deps.json
+/Users/christinasarmiento/Downloads/01 - inputs_and_functions/bin/Debug/netcoreapp3.0/inputs_and_functions.runtimeconfig.json
+/Users/christinasarmiento/Downloads/01 - inputs_and_functions/bin/Debug/netcoreapp3.0/inputs_and_functions.runtimeconfig.dev.json
+/Users/christinasarmiento/Downloads/01 - inputs_and_functions/bin/Debug/netcoreapp3.0/inputs_and_functions.dll
+/Users/christinasarmiento/Downloads/01 - inputs_and_functions/bin/Debug/netcoreapp3.0/inputs_and_functions.pdb
+/Users/christinasarmiento/Downloads/01 - inputs_and_functions/obj/Debug/netcoreapp3.0/inputs_and_functions.csprojAssemblyReference.cache
+/Users/christinasarmiento/Downloads/01 - inputs_and_functions/obj/Debug/netcoreapp3.0/inputs_and_functions.AssemblyInfoInputs.cache
+/Users/christinasarmiento/Downloads/01 - inputs_and_functions/obj/Debug/netcoreapp3.0/inputs_and_functions.AssemblyInfo.cs
+/Users/christinasarmiento/Downloads/01 - inputs_and_functions/obj/Debug/netcoreapp3.0/inputs_and_functions.dll
+/Users/christinasarmiento/Downloads/01 - inputs_and_functions/obj/Debug/netcoreapp3.0/inputs_and_functions.pdb
